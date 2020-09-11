@@ -22,7 +22,7 @@ Found in [`/logo/greyscale`](https://github.com/giantswarm/brand/tree/master/log
 
 (Not visible on a white background)
 
-![White logo](https://raw.githubusercontent.com/giantswarm/brand/v1.0.0/logo/white/giant-swarm-logo.svg)
+<img src="https://raw.githubusercontent.com/giantswarm/brand/v1.0.0/logo/white/giant-swarm-logo.svg" style="background-color: #333333" />
 
 Found in [`/logo/white`](https://github.com/giantswarm/brand/tree/master/logo/white).
 
