@@ -4,6 +4,32 @@ Giant Swarm logo files and icons for download. When in doubt about the usage of 
 
 Copyright 2015 - 2020 Giant Swarm GmbH - All rights reserved
 
+## Logo variations overview
+
+### Standard
+
+![Standard logo](https://raw.githubusercontent.com/giantswarm/brand/v1.0.0/logo/standard/giant-swarm-logo.svg)
+
+Found in [`/logo/standard`](https://github.com/giantswarm/brand/tree/master/logo/standard).
+
+### Greyscale
+
+![Greyscale logo](https://raw.githubusercontent.com/giantswarm/brand/v1.0.0/logo/greyscale/giant-swarm-logo.svg)
+
+Found in [`/logo/greyscale`](https://github.com/giantswarm/brand/tree/master/logo/greyscale).
+
+### White
+
+(Not visible on a white background)
+
+![White logo](https://raw.githubusercontent.com/giantswarm/brand/v1.0.0/logo/white/giant-swarm-logo.svg)
+
+Found in [`/logo/white`](https://github.com/giantswarm/brand/tree/master/logo/white).
+
+### Special purpose
+
+Logo variations for specific purposes can be found in [`/logo/special-purpose`](https://github.com/giantswarm/brand/tree/master/logo/special-purpose). The file name indicates the purpose.
+
 ## Publishing long-lived asset URLs
 
 If you need to give access to an asset via a URL, please use the URL format as below, to ensure that the content served via this URL never changes:
