@@ -26,7 +26,19 @@ Found in [`/logo/greyscale`](https://github.com/giantswarm/brand/tree/master/log
 
 Found in [`/logo/white`](https://github.com/giantswarm/brand/tree/master/logo/white).
 
-### Special purpose
+#### Color on dark
+
+The standard logomark with a white wordmark, for use on dark backgrounds
+where the full-white variation loses the brand colour.
+
+<img src="https://raw.githubusercontent.com/giantswarm/brand/main/logo/color-on-dark/giant-swarm-logo.svg" style="background-color: #002645" />
+
+Found in [`/logo/color-on-dark`](https://github.com/giantswarm/brand/tree/main/logo/color-on-dark).
+
+Currently SVG only — see the pull request that added it for why the
+raster and EPS formats are missing.
+
+## Special purpose
 
 Logo variations for specific purposes can be found in [`/logo/special-purpose`](https://github.com/giantswarm/brand/tree/master/logo/special-purpose). The file name indicates the purpose.
 
